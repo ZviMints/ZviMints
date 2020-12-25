@@ -11,7 +11,7 @@
        - **Records:** https://www.youtube.com/watch?v=jroLduEZiBU&list=PLskc-ZNWyaRoPa2QLYmrF2ffYmVLPdOS2
      - **2019:** https://github.com/ZviMints/DataStructures_2019S 
   -  Number Theory:
-    - **Materials:** https://github.com/ZviMints/Number-Theory--NT-5779B
+     - **Materials:** https://github.com/ZviMints/Number-Theory--NT-5779B
 + **Ariel University Computer Science Courses Summaries**: https://github.com/ZviMints/Summaries
 + **Colorful Repositories:** https://github.com/ZviMints?tab=repositories
 <h3 align="left">Interested in:</h3>
