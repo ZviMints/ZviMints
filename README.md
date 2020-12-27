@@ -2,7 +2,7 @@
 <h3 align="center">Scala Software Developer at @VatBox and Computer Science Graduate</h3>
 
 <h3 align="center"> LinkedIn profile: https://www.linkedin.com/in/zvimints/</h3>
-<h3 align="center"> zvimints@gmail.com</h3>
+<h3 align="center"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/facebook/65/e-mail-symbol_1f4e7.png" width="30px" height="30px"/> : zvimints@gmail.com</h3>
 
 ## You can find interesting:
 + **Teaching Assistant Materials**
