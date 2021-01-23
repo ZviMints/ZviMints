@@ -5,7 +5,7 @@
 <a href="https://stackoverflow.com/users/10875851/zvi-mints">Stack Overflow Profile</a> | <a href= "https://www.linkedin.com/in/zvimints/">LinkedIn Profile</a>
 </h3>
 
-<h3 align="center">Contact me: `zvimints@gmail.com`</h3>
+**Contact me:** `zvimints@gmail.com`
 
 ## You can find interesting:
 + **Teaching Assistant Materials**
