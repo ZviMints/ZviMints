@@ -17,7 +17,7 @@
 	 - <a href="https://github.com/ZviMints/DataStructures_2019S ">Materials</a>
   -  Number Theory:
      - <a href="https://github.com/ZviMints/Number-Theory--NT-5779B">Materials</a>
-+ <a href="https://github.com/ZviMints/Summaries">Ariel University Computer Science Courses Summaries</a>
++ <a href="https://github.com/ZviMints/Summaries">Ariel University Computer Science Courses Summaries & Scala, mongoDB, Akka, etc</a>
 + <a href="https://github.com/ZviMints?tab=repositories">Colorful Repositories</a>
 <h3 align="left">Interested in:</h3>
 <p align="left">
