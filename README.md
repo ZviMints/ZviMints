@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 🤙 </h1>
-<h3 align="center">Scala Software Developer at @VatBox and Computer Science Graduate</h3>
+<h3 align="center">Scala Software Developer at @DoubleVerify and Computer Science Graduate</h3>
 
 <h3 align="center">
 <a href="https://stackoverflow.com/users/10875851/zvi-mints">Stack Overflow Profile</a> | <a href= "https://www.linkedin.com/in/zvimints/">LinkedIn Profile</a>
