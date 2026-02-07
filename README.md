@@ -27,11 +27,8 @@
 - Payments/Define Team
 
 **Previous:** Senior Software Engineer II (Tech Lead) at **DoubleVerify** *(May 2021 - July 2025)*
-- Led Brand Safety team migration and stabilization
-- High throughput, low latency distributed systems (~1M RPS, ~10ms p99)
-- Full lifecycle ownership from design through production
 
-**Background:** 6+ years Backend Development experience with progression through technical leadership roles
+**Background:** 7+ years Backend Development experience with progression through technical leadership roles
 
 ---
 
