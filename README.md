@@ -26,7 +26,7 @@
 **Current:** Senior Software Engineer at **monday.com** *(July 2025 - Present)*
 - Payments/Define Team
 
-**Previous:** Senior Software Engineer II (Tech Lead) at **DoubleVerify** *(Aug 2023 - July 2025)*
+**Previous:** Senior Software Engineer II (Tech Lead) at **DoubleVerify** *(May 2021 - July 2025)*
 - Led Brand Safety team migration and stabilization
 - High throughput, low latency distributed systems (~1M RPS, ~10ms p99)
 - Full lifecycle ownership from design through production
